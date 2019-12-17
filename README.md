@@ -17,7 +17,7 @@ Až skončí vložení do stromu, program zavolá metodu, která vratí všechny
     V prvním vlaknu program parsuje slova ze souborů, které měli lichou pozici na vstupu.
     V druhém vlaknu program parsuje slova ze souborů, které měli sudou pozici na vstupu.
     
-    Určitou slabinou použité implementace více vláken je, že program neposkytuje žádné zrychlení při zpracování jednoho souboru.
+**    Určitou slabinou použité implementace více vláken je, že program neposkytuje žádné zrychlení při zpracování jednoho souboru.**
 </p>
 
 <h3>4. Pouštění</h3>
