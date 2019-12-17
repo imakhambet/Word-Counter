@@ -39,5 +39,7 @@ Vystup je možnné zkontrolovat pomocí webové stránky https://www.browserling
 obsahuje všechny text z deseti souboru adresáře "input".
 </p>
 
+Average time for one-thread run 90 in 164 times for 83038 words from 10 files.
+Average time for two-thread run 60 in 311 times for 83038 words from 10 files.
 
 
